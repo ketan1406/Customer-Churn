@@ -1,0 +1,8 @@
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore data files (you can customize this based on your data)
+data/raw/*.csv
+data/processed/*.csv
